@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/index.html",
+  "index": "/ProgressiveWebApp1/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/favicon.ico",
-        "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/index.html",
-        "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/inline.318b50c57b4eba3d437b.bundle.js",
-        "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/main.b3d6005dd65c94cb6b51.bundle.js",
-        "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/polyfills.2d896654d931a4d9a559.bundle.js",
-        "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/styles.e51c1a73714c418e594c.bundle.css"
+        "/ProgressiveWebApp1/favicon.ico",
+        "/ProgressiveWebApp1/index.html",
+        "/ProgressiveWebApp1/inline.318b50c57b4eba3d437b.bundle.js",
+        "/ProgressiveWebApp1/main.b3d6005dd65c94cb6b51.bundle.js",
+        "/ProgressiveWebApp1/polyfills.2d896654d931a4d9a559.bundle.js",
+        "/ProgressiveWebApp1/styles.e51c1a73714c418e594c.bundle.css"
       ],
       "patterns": []
     },
@@ -21,10 +21,10 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/assets/icon-128x128.png",
-        "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/assets/icon-152x152.png",
-        "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/assets/icon-256x256.png",
-        "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/assets/icon-512x512.png"
+        "/ProgressiveWebApp1/assets/icon-128x128.png",
+        "/ProgressiveWebApp1/assets/icon-152x152.png",
+        "/ProgressiveWebApp1/assets/icon-256x256.png",
+        "/ProgressiveWebApp1/assets/icon-512x512.png"
       ],
       "patterns": [
         "https:\\/\\/cataas\\.com\\/.*"
@@ -33,15 +33,15 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
-    "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/main.b3d6005dd65c94cb6b51.bundle.js": "87da796162b8317fbe99f3d88e1bc14ebf2e84b0",
-    "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
-    "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/polyfills.2d896654d931a4d9a559.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
-    "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
-    "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/styles.e51c1a73714c418e594c.bundle.css": "787879cc02370d1a4b2b277d2b2527c65f544060",
-    "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
-    "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://himanshupareek.github.io/https://himanshupareek.github.io/ProgressiveWebApp1/index.html": "eb9cf946f61a442fc90e1523ec2185e5c1de2556"
+    "/ProgressiveWebApp1/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/ProgressiveWebApp1/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
+    "/ProgressiveWebApp1/main.b3d6005dd65c94cb6b51.bundle.js": "87da796162b8317fbe99f3d88e1bc14ebf2e84b0",
+    "/ProgressiveWebApp1/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
+    "/ProgressiveWebApp1/polyfills.2d896654d931a4d9a559.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
+    "/ProgressiveWebApp1/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
+    "/ProgressiveWebApp1/styles.e51c1a73714c418e594c.bundle.css": "787879cc02370d1a4b2b277d2b2527c65f544060",
+    "/ProgressiveWebApp1/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
+    "/ProgressiveWebApp1/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/ProgressiveWebApp1/index.html": "ba07a2021ed0a72bcc23596b6373c247b98f34d5"
   }
 }
